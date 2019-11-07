@@ -1,0 +1,22 @@
+*{
+    margin:0;
+}
+.Nombre{
+ color: red;
+ background: #0084ff;
+ text-align: center;
+ padding: 20px;
+ font-family:cursive;
+
+}
+ 
+
+.categoria{
+    height: 200px;
+    padding: 10px;
+    color: blue;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    
+}
